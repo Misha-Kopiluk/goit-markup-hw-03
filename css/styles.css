@@ -199,6 +199,10 @@ body {
     padding: 120px 0 120px 0;
 }
 
+.description-list-img{
+    display: block;
+}
+
 .description-list {
     display: flex;
     justify-content: center;
@@ -256,6 +260,10 @@ body {
     margin-bottom: 72px;
 }
 
+.our-portfolio-list-img{
+display: block;
+}
+
 .our-portfolio {
     padding: 120px 0 120px 0;
 }
@@ -307,7 +315,7 @@ body {
 }
 
 .logos {
-     display: inline-block; 
+    display: inline-block; 
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -328,4 +336,5 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+    width: 264px;
 }
